@@ -1,0 +1,7 @@
+{
+  "name": "VibeMatch",
+  "description": "A sleek music discovery platform using Gemini AI to generate personalized playlists based on mood, activity, and listening preferences with a vibrant Y2K aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
